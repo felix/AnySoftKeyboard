@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/akha_autotext"
+        description="@string/akha_dictionary_description"
+        dictionaryResourceId="@array/akha_words_dict_array"
+        id="ad1ac6eb-b964-4172-8b99-b5bc7e26990c"
+        initialSuggestions="@array/akha_initial_suggestions"
+        locale="ahk"
+        nameResId="@string/akha_dictionary"
+        type="binary_resource" />
+</Dictionaries>
