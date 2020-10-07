@@ -1,7 +1,5 @@
 package com.anysoftkeyboard.languagepack.lahu;
 
-import com.anysoftkeyboard.languagepack.PackBroadcastReceiverBase;
+import com.anysoftkeyboard.addon.PackBroadcastReceiverBase;
 
-public class PackBroadcastReceiver extends PackBroadcastReceiverBase {
-
-}
+public class PackBroadcastReceiver extends PackBroadcastReceiverBase {}
